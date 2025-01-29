@@ -1,5 +1,4 @@
-markdown
-Copy
+
 # Advanced Data Mining Project
 
 ![Data Mining](https://img.shields.io/badge/Data-Mining-blue)
